@@ -13,3 +13,4 @@ spotify-this-song [song-title-here] returns the artist, album, and preview URL f
 movie-this [movie-title-here] returns the year, rating, plot summary, reviews of a specific movie using the IMDb API.
 do-what-it-says returns the result of a "random" result by reading the random.txt file and performing the command written in that file. This command can be changed to any one of the 3 types listed above.
 
+https://github.com/onanna/liri-node-app/issues/2#issue-382021404
